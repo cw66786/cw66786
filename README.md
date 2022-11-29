@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Craig Wilson   
 - 👀 I’m interested in Rocket League and software development.
-- 🌱 I’m currently working my way through FreeCodeCamp.
 - 💞️ I’m looking to collaborate on anything I can use to learn and grow.
 - 👀 You can view some of my projects at https://codepen.io/cw66786.
 - 📫 You can reach me at cw66786@gmail.com.
